@@ -32,3 +32,6 @@ https://www.google.com/search?q=git+flow&ei=2QAGY6WAKI_o-AaAo474DA&ved=0ahUKEwjl
 우아한Tech:
 https://www.youtube.com/watch?v=wtsr5keXUyE
 https://www.youtube.com/watch?v=jeaf8OXYO1g
+
+우아한테코톡 무중단배포
+https://www.youtube.com/watch?v=sIPU_VkrguI&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech
