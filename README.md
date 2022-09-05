@@ -19,12 +19,40 @@ git flow 도구 예) sourcetree
 
 github protect 기능 설정 (develop하고 master) ??
 
+**git 명령어**
+git init => git 디렉토리 시작
+git add *
+git commit
+git push
+
+git checkout => 브랜치의 상태로 디렉토리를 변경함
+git branch {name} => 새로운 브랜치 만듬
+git reset --hard HEAD => 마지막 커밋으로 모든 것을 되돌림
+git merge {branch-name} => 현재 체크아웃된 브랜치를 기준으로 name을 머지함.
+
+git branch {name} => name branch 생성
+git checkout -b {name} => name branch 생성하고, 이곳으로 checkout
+git branch -d {name} => name branch 삭제
+git branch -a => remote, local branch 모두 보기
+git push --delete {remote name} {branch} => remote에서 branch 삭제
+git branch --contains {SHA} => 이 커밋이 포함된 branch 찾기
+
+
 
 나중에 파일 깃헙에 업로드 할때 
 gitignore.io 사용 
 이때, java, eclipse, 인텔리제이, mavan 을 작성해준다. 
 
 -> 무중단 배포 git actions 사용
+
+
+깃 공부 사이트
+https://learngitbranching.js.org/?locale=ko
+
+https://backlog.com/git-tutorial/kr/
+
+https://opentutorials.org/course/2708
+
 
 
 참고자료
