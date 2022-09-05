@@ -20,7 +20,7 @@
 - [ ] git flow 도구 예) sourcetree
 - [ ] git flow 또는 github flow
 
-github protect 기능 설정 (develop하고 master) ??
+
 
 
 ### git 명령어
@@ -70,3 +70,4 @@ gitignore.io 사용
 이때, java, eclipse, 인텔리제이, mavan 을 작성해준다. 
 
 -> 무중단 배포 git actions 사용
+-> github protect 기능 설정 (develop하고 master) ??
