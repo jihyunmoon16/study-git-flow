@@ -1,7 +1,7 @@
 # study-git-flow
 **깃 플로우 연습**
 
-Git-flow에는 5가지 종류의 브랜치가 존재
+## Git-flow에는 5가지 종류의 브랜치가 존재
 - 항상 유지되는 메인 브랜치(master, develop)
 - 머지 후 삭제하는 보조 브랜치(feature, release, hotfix)
 1. master
@@ -10,16 +10,19 @@ Git-flow에는 5가지 종류의 브랜치가 존재
 4. release
 5. hotfix
 
-정해야 할 것 : 
-브랜치 이름을 이름으로 할 건지 기능별로 할 건지
+**정해야 할 것**
+
+- [ ] 브랜치 이름을 이름으로 할 건지 기능별로 할 건지
 -> initial commit 하자마자 dev 만들고 사람별로 브랜치 만들기 또는 기능별로
-우선 깃헙에서 private으로 생성
-커밋 메시지 규칙 정해야 함
-git flow 도구 예) sourcetree
+- [ ] 우선 깃헙에서 private으로 생성
+- [ ] 커밋 메시지 규칙 정해야 함
+- [ ] git flow 도구 예) sourcetree
+- [ ] git flow 또는 github flow
 
 github protect 기능 설정 (develop하고 master) ??
 
 **git 명령어**
+```
 git init => git 디렉토리 시작
 git add *
 git commit
@@ -36,7 +39,7 @@ git branch -d {name} => name branch 삭제
 git branch -a => remote, local branch 모두 보기
 git push --delete {remote name} {branch} => remote에서 branch 삭제
 git branch --contains {SHA} => 이 커밋이 포함된 branch 찾기
-
+```
 
 
 나중에 파일 깃헙에 업로드 할때 
@@ -46,20 +49,17 @@ gitignore.io 사용
 -> 무중단 배포 git actions 사용
 
 
-깃 공부 사이트
-https://learngitbranching.js.org/?locale=ko
-
-https://backlog.com/git-tutorial/kr/
-
-https://opentutorials.org/course/2708
+**깃 공부 사이트**
+- https://learngitbranching.js.org/?locale=ko
+- https://backlog.com/git-tutorial/kr/
+- https://opentutorials.org/course/2708
 
 
+**참고자료**
 
-참고자료
-https://www.google.com/search?q=git+flow&ei=2QAGY6WAKI_o-AaAo474DA&ved=0ahUKEwjl0OTTpd_5AhUPNN4KHYCRA88Q4dUDCA4&uact=5&oq=git+flow&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyBggAEB4QBzIGCAAQHhAHMgQIABBDMgUIABCRAjIFCAAQkQIyCAgAEB4QBxAKMgUIABCABDIFCAAQgAQyBQgAEJECOgcIABBHELADSgQIQRgASgQIRhgAULgEWLgEYOkFaAFwAXgAgAF0iAF0kgEDMC4xmAEAoAEByAEIwAEB&sclient=gws-wiz
-우아한Tech:
-https://www.youtube.com/watch?v=wtsr5keXUyE
-https://www.youtube.com/watch?v=jeaf8OXYO1g
+- 우아한Tech:
+  - https://www.youtube.com/watch?v=wtsr5keXUyE
+  - https://www.youtube.com/watch?v=jeaf8OXYO1g
 
-우아한테코톡 무중단배포
-https://www.youtube.com/watch?v=sIPU_VkrguI&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech
+- 우아한테코톡 무중단배포
+  - https://www.youtube.com/watch?v=sIPU_VkrguI&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech
