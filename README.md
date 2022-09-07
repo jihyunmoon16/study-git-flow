@@ -61,6 +61,10 @@ git branch --contains {SHA} => 이 커밋이 포함된 branch 찾기
 - 우아한테코톡 무중단배포
   - https://www.youtube.com/watch?v=sIPU_VkrguI&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech
 
+- 깃 커밋메시지 규칙
+ - https://creampuffy.tistory.com/129
+ 
+
 
 
 **비고**
