@@ -15,10 +15,11 @@
 ### 정해야 할 것
 - [ ] 브랜치 이름을 이름으로 할 건지 기능별로 할 건지
 -> initial commit 하자마자 dev 만들고 사람별로 브랜치 만들기 또는 기능별로
-- [ ] 우선 깃헙에서 private으로 생성
+
 - [ ] 커밋 메시지 규칙 정해야 함
-- [ ] git flow 도구 예) sourcetree
-- [ ] git flow 또는 github flow
+- GUI는 소스트리 사용
+- github flow 사용 예정
+- public으로 레포 생성
 
 
 
