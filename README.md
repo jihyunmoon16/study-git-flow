@@ -18,6 +18,7 @@
 
 - [ ] 커밋 메시지 규칙 정해야 함
 - GUI는 소스트리 사용
+-   https://www.sourcetreeapp.com/
 - github flow 사용 예정
 - public으로 레포 생성
 
