@@ -13,15 +13,12 @@
 
 
 ### 정해야 할 것
-- [ ] 브랜치 이름을 이름으로 할 건지 기능별로 할 건지
--> initial commit 하자마자 dev 만들고 사람별로 브랜치 만들기 또는 기능별로
-
-- [ ] 커밋 메시지 규칙 정해야 함
+- 브랜치는 기능별로 나눔
 - GUI는 소스트리 사용
 -   https://www.sourcetreeapp.com/
 - github flow 사용 예정
 - public으로 레포 생성
-
+- 커밋 메시지는 앞에 feat/refactor/fix/design/test 로 구분하고 설명은 한국어로 작성
 
 
 
